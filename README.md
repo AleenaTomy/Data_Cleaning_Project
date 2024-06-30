@@ -13,6 +13,12 @@ In this project, data cleaning in MySQL involves a structured approach to enhanc
 Overall, these data cleaning steps in MySQL are essential for ensuring the accuracy, consistency, and completeness of our dataset. By adhering to these practices, we enhance the reliability of the data analysis and enable informed decision-making based on trustworthy information.
 
 
+
+
+
+
+
+
 In this SQL script for data cleaning, we start by ensuring data preservation and preparation through several systematic steps.
 
 Firstly, we create a staging table `layoffs_staging` identical to the original `layoffs` table to avoid data loss and maintain the integrity of raw data. This staging table serves as a workspace where all transformations will be applied.
